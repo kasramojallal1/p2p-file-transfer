@@ -1,4 +1,4 @@
-# Netwolf
+# p2p-file-transfer
 
 This is a peer to peer(p2p) program that can identify other clusters and transfer files between them.
 
